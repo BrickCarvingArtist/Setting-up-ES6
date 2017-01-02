@@ -1,4 +1,4 @@
-# Setting-up-Es6 
+# 架设ES6
 
 《Setting up ES6》翻译 
 
