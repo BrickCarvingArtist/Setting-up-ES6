@@ -1,6 +1,6 @@
 # 架设ES6 
 
-由《[Setting up ES6](https://leanpub.com/setting-up-es6/read)》(原作者：Axel Rauschmayer)翻译 
+本书翻译自《[Setting up ES6](https://leanpub.com/setting-up-es6/read)》原作者：[Axel Rauschmayer](https://twitter.com/rauschma)
 
 - 作者：[砖雕艺术家](http://wpa.qq.com/msgrd?v=3&uin=806321554&site=qq&menu=yes) 
 - QQ号：806321554 
