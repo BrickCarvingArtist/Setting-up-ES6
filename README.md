@@ -12,3 +12,7 @@
 ### 1. [关于本书](https://brickcarvingartist.github.io/Setting-up-ES6/1.%E5%85%B3%E4%BA%8E%E6%9C%AC%E4%B9%A6) 
 
 ### 2. [使用ECMAScript6开发](https://brickcarvingartist.github.io/Setting-up-ES6/2.%E4%BD%BF%E7%94%A8ECMAScript6%E5%BC%80%E5%8F%91) 
+
+## 支持译者继续翻译 
+
+![支持译者继续翻译](http://static.ikindness.cn/donate.png)
