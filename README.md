@@ -13,6 +13,10 @@
 
 ### 2. [使用ECMAScript6开发](https://brickcarvingartist.github.io/Setting-up-ES6/2.%E4%BD%BF%E7%94%A8ECMAScript6%E5%BC%80%E5%8F%91) 
 
+### 3. [在浏览器和Node.js上配置Babel](https://brickcarvingartist.github.io/Setting-up-ES6/3.%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%92%8CNode.js%E4%B8%8A%E5%AE%89%E8%A3%85Babel) 
+
+### 4. [配置Babel6](https://brickcarvingartist.github.io/Setting-up-ES6/4.%E9%85%8D%E7%BD%AEBabel6) 
+
 ## 支持译者继续翻译 
 
 ![支持译者继续翻译](http://static.ikindness.cn/donate.png)
