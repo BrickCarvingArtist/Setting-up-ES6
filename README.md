@@ -14,7 +14,8 @@
 3. [在浏览器和Node.js上配置Babel](https://brickcarvingartist.github.io/Setting-up-ES6/3.%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%92%8CNode.js%E4%B8%8A%E5%AE%89%E8%A3%85Babel) 
 4. [配置Babel6](https://brickcarvingartist.github.io/Setting-up-ES6/4.%E9%85%8D%E7%BD%AEBabel6) 
 5. [Babel：配置标准库和助手](https://brickcarvingartist.github.io/Setting-up-ES6/5.Babel%EF%BC%9A%E9%85%8D%E7%BD%AE%E6%A0%87%E5%87%86%E5%BA%93%E5%92%8C%E5%8A%A9%E6%89%8B) 
-6. [Babel的宽松模式](https://brickcarvingartist.github.io/Setting-up-ES6/6.Babel%E7%9A%84%E5%AE%BD%E6%9D%BE%E6%A8%A1%E5%BC%8F)
+6. [Babel的宽松模式](https://brickcarvingartist.github.io/Setting-up-ES6/6.Babel%E7%9A%84%E5%AE%BD%E6%9D%BE%E6%A8%A1%E5%BC%8F) 
+7. [Babel和CommonJS模块](https://brickcarvingartist.github.io/Setting-up-ES6/7.Babel%E5%92%8CCommonJS%E6%A8%A1%E5%9D%97) 
 
 ---
 
