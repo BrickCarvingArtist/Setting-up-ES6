@@ -4,6 +4,39 @@
 
 这章测试Babel如何确保代码它代码翻译适当地以各常规CommonJS模块相互理解。在“探索ES6”中翻阅“[模块](http://exploringjs.com/es6/ch_modules.html)”得到更多关于ES6模块上的信息。 
 
+### 7.1 ES6模块对比CommonJS模块 
+
+#### 7.1.1 ECMAScript6模块 
+
+默认导出（单个导出）： 
+
+```js
+// lib.js
+export default function () {}
+
+// main.js
+import lib from './lib';
+``` 
+
+具名导出（多个导出)： 
+
+```js
+// lib.js
+export function foo() {}
+export function bar() {}
+
+// main1.js
+import * as lib from './lib';
+lib.foo();
+lib.bar();
+// main2.js
+import {foo, bar} from './lib';
+foo();
+bar();
+``` 
+
+同时拼合两种风格的导出是可能的，它们互不冲突。 
+
 ---
 
 ## 感谢支持译者翻译 
