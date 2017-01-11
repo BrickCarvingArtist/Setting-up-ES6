@@ -16,6 +16,7 @@
 5. [Babel：配置标准库和助手](https://brickcarvingartist.github.io/Setting-up-ES6/5.Babel%EF%BC%9A%E9%85%8D%E7%BD%AE%E6%A0%87%E5%87%86%E5%BA%93%E5%92%8C%E5%8A%A9%E6%89%8B) 
 6. [Babel的宽松模式](https://brickcarvingartist.github.io/Setting-up-ES6/6.Babel%E7%9A%84%E5%AE%BD%E6%9D%BE%E6%A8%A1%E5%BC%8F) 
 7. [Babel和CommonJS模块](https://brickcarvingartist.github.io/Setting-up-ES6/7.Babel%E5%92%8CCommonJS%E6%A8%A1%E5%9D%97) 
+8. [打包JavaScript的未来](https://brickcarvingartist.github.io/Setting-up-ES6/8.%E6%89%93%E5%8C%85JavaScript%E7%9A%84%E6%9C%AA%E6%9D%A5) 
 
 ---
 
